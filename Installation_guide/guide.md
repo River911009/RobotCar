@@ -1,5 +1,5 @@
 ### Installation guide
-[back](../README.md)
+[back](https://github.com/River911009/RobotCar)
 ------------
 ![](./img1.jpg)
 ![](./img2.jpg)
