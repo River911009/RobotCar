@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For Timer Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Car    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initial                    KEYWORD2
+moveStop                   KEYWORD2
+moveForward                KEYWORD2
+moveBack                   KEYWORD2
+moveClockWiseRotate        KEYWORD2
+moveCounterClockWiseRotate KEYWORD2
+moveForwardLeft            KEYWORD2
+moveForwardRight           KEYWORD2
+moveBackLeft               KEYWORD2
+moveBackRight              KEYWORD2
+setMotor                   KEYWORD2
+getInfrared                KEYWORD2
+getUltrasonic              KEYWORD2
+getJoystick                KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
