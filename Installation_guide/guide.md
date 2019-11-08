@@ -1,4 +1,5 @@
 ### Installation guide
+[back](../README.md)
 ------------
 ![](./img1.jpg)
 ![](./img2.jpg)
@@ -30,3 +31,4 @@
 ![](./img28.jpg)
 ![](./img29.jpg)
 ------------
+[top](./guide.md)
