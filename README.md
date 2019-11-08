@@ -6,4 +6,7 @@ This library includes those following functions:
 2.  Infrared sensor for line tracing.
 3.  Ultrasonic sensor for obstacle detection.
 
-![](./blob/master/Installation_guide/img26.jpg)
+------------
+###[Heading link](./Installation_guide/guide.md "Installation guide")
+
+![](./Installation_guide/img26.jpg)
