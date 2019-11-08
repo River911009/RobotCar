@@ -7,6 +7,6 @@ This library includes those following functions:
 3.  Ultrasonic sensor for obstacle detection.
 
 ------------
-###[Heading link](./Installation_guide/guide.md "Installation guide")
+[Heading link](./Installation_guide/guide.md "Installation guide")
 
 ![](./Installation_guide/img26.jpg)
